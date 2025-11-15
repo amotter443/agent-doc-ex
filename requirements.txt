@@ -1,0 +1,4 @@
+toml>=0.10.2
+requests>=2.31.0
+landingai-ade>=0.1.0
+agentic-doc>=0.1.0
